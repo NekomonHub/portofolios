@@ -1,4 +1,7 @@
 {
-  "accessKey": "Adel",
-  "accessKey": "Ilham"
+  "keys": [
+    "adel", 
+    "ilham",
+    "akses22"
+  ]
 }
